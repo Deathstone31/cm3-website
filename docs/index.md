@@ -2,7 +2,7 @@
 title: Home Page
 ---
 
-This is the home page of Rahul's CM3 website.
+This is the home page of Chuan Yeu CM3 website.
 
 ## A smaller level Heading
 
@@ -15,6 +15,7 @@ This is another para.
 In this one we show some lists. just start the lista on the next line after hitting one return:
 - an item
 - another item
+- third item
 
 In this new para we create a numbered list using numbers.
 1. first item
